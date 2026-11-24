@@ -39,6 +39,8 @@ The stick's firmware gives the Netflix button keycode 1001 and consumes it in
    Any `app_keys` target works, including actions such as `settings` or `library`.
 4. Open Home once so the launcher switches the link handler on, then press the real Netflix button.
 
+![The stick after a press of the Netflix button, with 1001 mapped to another app](docs/fork/netflix-button.jpg)
+
 ## Tested on
 
 Xiaomi MiTV-AESP0 stick (PI.2055 firmware), Android TV 9, with the original remote, 23 Nov 2026. The
